@@ -1,0 +1,8 @@
+{
+  "name": "node-helloworld",
+  "version": "0.0.1",
+  "description": "Simple Node app",
+  "main": "helloworld.js",
+  "author": "Demo",
+  "license": "Apache 2.0"
+}

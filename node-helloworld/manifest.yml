@@ -1,0 +1,4 @@
+---
+applications:
+- name: node-helloworld
+  command: node helloworld.js
