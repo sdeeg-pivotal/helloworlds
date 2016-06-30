@@ -1,0 +1,4 @@
+---
+applications:
+- name: php-helloworld
+  memory: 512M
