@@ -1,4 +1,0 @@
-message: Hello Spring Boot (CLI)
-logging:
-  level:
-    root: ERROR
